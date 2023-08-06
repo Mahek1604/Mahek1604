@@ -1,4 +1,6 @@
-### Hi there 👋
+### Namaste 
+
+I am a Full Stack Developer.
 
 <!--
 **Mahek1604/Mahek1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
